@@ -1,1 +1,3 @@
 # Airline-Customer-Satisfaction-Project
+
+This project focuses on predicting airline customer satisfaction using machine learning techniques. By analyzing customer demographics, flight details, and service feedback, the goal is to classify customers as either satisfied or unsatisfied. The dataset includes features such as age, flight distance, and satisfaction ratings, with the target variable being customer satisfaction. The project employs Python and libraries like Pandas, NumPy, scikit-learn, and XGBoost for data preprocessing, model building, and evaluation. It aims to provide insights for airlines to improve customer service by identifying key factors influencing satisfaction.
